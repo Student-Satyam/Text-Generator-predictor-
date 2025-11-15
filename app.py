@@ -43,4 +43,4 @@ if st.button("Generate Text"):
         st.warning("Please enter a prompt to generate text.")
 
 st.markdown("---")
-st.info("Powered by GPT-2 model from Hugging Face Transformers.")
+st.info("Powered by GPT-2 model from Hugging Face Transformers made by Satyam.")
