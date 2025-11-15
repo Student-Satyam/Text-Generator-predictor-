@@ -18,4 +18,4 @@ Make sure you have Python 3.9+ installed on your system.
 In your local directory, create the following two files:
 
 #### `streamlit_app.py` content:
-(Paste the content from the `streamlit_app.py` code block provided earlier)
+
